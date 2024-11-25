@@ -2,7 +2,7 @@
   <ion-page>
     <ion-header :translucent="true">
       <ion-toolbar>
-        <ion-title>Crypto List - Tugas 2 MSIM4401 - Agus Setiawan</ion-title>
+        <ion-title>Daftar Crypto - Tugas 2 MSIM4401 - Agus Setiawan</ion-title>
       </ion-toolbar>
     </ion-header>
 
